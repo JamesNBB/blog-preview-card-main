@@ -70,7 +70,8 @@ img {
     margin-bottom: 1.1rem;
 }
 
-h2 {
+h1 {
+    font-size: 1.5rem;
     font-weight: 800;
     cursor: pointer;
     transform: opacity 1s;
